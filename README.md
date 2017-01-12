@@ -1,1 +1,3 @@
-# Rupert-s-Code
+This repository contains a C++ file which solves the 8-Queens problem, which is the problem of finding all ways to put 8 queens on a chessboard such that no queen is attacking another queen. When you run the file it displays the first configuration and then asks you to input an integer each time to display the next configuration. There is also a Java file which implements an enhanced version of the Meissel-Lehmer algorithm for computing the prime counting function as described here: http://www.dtc.umn.edu/~odlyzko/doc/arch/meissel.lehmer.pdf
+
+With the Java program you enter the integer x for which you want pi(x) at the command line.
